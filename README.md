@@ -18,6 +18,8 @@ _A list of my commonly used Git commands_
 
 | Command | Description |
 | ------- | ----------- |
+| `git config --globale user.name "name"` | set up your name and email address
+| `git config --globale user.mail "mail"` | set up your name and email address
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
